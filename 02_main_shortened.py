@@ -22,16 +22,3 @@ else:
         print("Computer wins!")
     else:
         print("You win!")
-
-'''if computer==-1 and you==1: computer-you = -2
-        print("Computer wins!")
-    elif computer==-1 and you==0:  computer-you = -1
-        print("You win!")
-    elif computer==1 and you==-1:  computer-you = 2
-        print("You win!")
-    elif computer==1 and you==0:  computer-you = 1
-        print("Computer wins!")
-    elif computer==0 and you==1:  computer-you = -1
-        print("You win!")
-    elif computer==0 and you==-1:  computer-you = 1
-        print("Computer wins!")'''
